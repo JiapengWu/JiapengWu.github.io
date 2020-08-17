@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Computer Science, McGill University, 2019
+* M.S. in Computer Science, McGill University, 2021
 
 Work experience
 ======
@@ -22,10 +21,11 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Research Intern
+  * Nuance Communication, Montreal
+  * Experiment with Multilingual BERT, a pretrained transformer model on multilingual datasets
+  * Implemented transfer learning techniques including gradual unfreezing and layerwise discriminative learning rate training, integrated with tensorflow.bert repository
+  *Further pretrained Multilingual using language-specific datasets, obtained about 3% accuracy gain averaged on multiple non-English intent classification tasks
   
 Skills
 ======
